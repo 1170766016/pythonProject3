@@ -1,6 +1,6 @@
 OpenAIModel:
   model: "gpt-3.5-turbo"
-  api_key: "sk-proj-LZ2ndQVgaTwhrZiSZ8cZT3BlbkFJ2fP3TAnEdHtNAspGN9jw"
+  api_key: "xxx"
 
 #GLMModel:
 #  model_url: "your_chatglm_model_url"
